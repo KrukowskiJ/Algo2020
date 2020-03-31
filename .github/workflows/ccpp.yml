@@ -13,8 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: make
-      run: make
     - name: run-cmake
       uses: lukka/run-cmake@v1.0
 
