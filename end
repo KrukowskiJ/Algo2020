@@ -1,0 +1,199 @@
+[33mcommit 10fe94e6a33e7bd14bf0a324158c25f4b8bd4c8a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: KrukowskiJ <jakub.krukowski.business@gmail.com>
+Date:   Wed Apr 15 19:45:43 2020 +0200
+
+    Solution for grz.cpp
+
+[33mcommit f8119f1e981b7decc69b0239359bc8dd9f5a5ee4[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Tue Apr 7 00:07:30 2020 +0200
+
+    Rename kon.cpp to week2/kon.cpp
+
+[33mcommit 7d9e99a30ded8f60640c3d97036a2ec7bf48923f[m
+Author: KrukowskiJ <jakub.krukowski.business@gmail.com>
+Date:   Tue Apr 7 00:06:19 2020 +0200
+
+    solution for KON
+
+[33mcommit c587113695bceaaf4ecba9bfddb4d264d172f372[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Mon Apr 6 23:38:51 2020 +0200
+
+    Delete ccpp.yml
+
+[33mcommit 340a713168d64cf1112ee3d716a02998167ad545[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Sun Apr 5 00:01:47 2020 +0200
+
+    Update sil.cpp
+    
+    delete using namespace std;
+
+[33mcommit 76ae989d289cddcdf1df048dc0723bd6e683ec21[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Sat Apr 4 23:57:58 2020 +0200
+
+    Create sil.cpp
+
+[33mcommit 70afa83c37f1c5d245d1be3c6b653da49fa70992[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Thu Apr 2 17:55:17 2020 +0200
+
+    Create ilo.cpp
+
+[33mcommit 2d9f81f38b2d916de731bcffe784389c8c80ee43[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Thu Apr 2 17:44:49 2020 +0200
+
+    Create mno.cpp
+
+[33mcommit 1c6d2a7f5555aa9ddf4bfbe0eea254c864de45f9[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Thu Apr 2 17:40:24 2020 +0200
+
+    Create czy.cpp
+
+[33mcommit c71598b27d5e533bfc2d0d4e41a3d21d0d96913e[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Thu Apr 2 17:31:51 2020 +0200
+
+    Rename adw to adw.cpp
+
+[33mcommit e4b9777e21c242fded1229e95d7de794d40fd05a[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Thu Apr 2 17:31:28 2020 +0200
+
+    Create adw
+
+[33mcommit a5ff2c43b815b58ba76a7552d42e1c657e228cd8[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Tue Mar 31 18:45:27 2020 +0200
+
+    Update ccpp.yml
+
+[33mcommit b4b90d529540e23dced9af0cb5921b2d8ddf578a[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Tue Mar 31 18:42:07 2020 +0200
+
+    Update ccpp.yml
+
+[33mcommit f7bfa2446b606e47006ec28c647a5920f4085d13[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Tue Mar 31 18:40:10 2020 +0200
+
+    Update ccpp.yml
+
+[33mcommit 5638ff8198e66070803c47787eb8bb4d08ba0192[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Tue Mar 31 17:20:35 2020 +0200
+
+    Create ccpp.yml
+
+[33mcommit 5cce036d7e9251c03a5033efb8688766a9f92940[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Tue Mar 31 11:37:32 2020 +0200
+
+    Update README.md
+
+[33mcommit 62f6a5ee5e952858a645f4d5b99316c4f1abbe90[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Tue Mar 31 11:37:12 2020 +0200
+
+    Update README.md
+
+[33mcommit 7164b15442a09c529927ddbad2f9ad7ee223af4a[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Tue Mar 31 10:34:03 2020 +0200
+
+    Rename ilo.cpp to izo.cpp
+
+[33mcommit 6a8bea54fed940b33f99503dbf4be6d15a8d1114[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Tue Mar 31 10:23:40 2020 +0200
+
+    Create tas1.cpp
+
+[33mcommit d9d3c65e712bdd8125e1a871cd49bca74ca04037[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Tue Mar 31 09:31:25 2020 +0200
+
+    Update README.md
+
+[33mcommit b8cec32b2f122828bdb6d026c6f1f2cb56548525[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Tue Mar 31 09:28:20 2020 +0200
+
+    Create tro.cpp
+
+[33mcommit 28811a959673b4bca62e909c78982db0090a7ed7[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Mon Mar 30 11:24:32 2020 +0200
+
+    Add files via upload
+
+[33mcommit 9d085328cffb407ec6229f141279e7d5e794bd34[m
+Author: Jakub Krukowski <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Mon Mar 30 10:44:07 2020 +0200
+
+    Create sto.cpp
+
+[33mcommit 9396787d1c3c861025bc435a06189fd06695dce5[m
+Author: KrukowskiJ <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Sun Mar 29 23:06:36 2020 +0200
+
+    Create x
+
+[33mcommit e4c7f802ad2a5379a49627ac3256657dd3c02aa4[m
+Author: KrukowskiJ <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Sun Mar 29 23:06:13 2020 +0200
+
+    Rename week1/ilo.cpp to week3/ilo.cpp
+
+[33mcommit e666241acb639904d542a8d9fc5d782f6701f015[m
+Author: KrukowskiJ <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Sun Mar 29 23:03:54 2020 +0200
+
+    Create x
+
+[33mcommit 7bd9bdb86d827d48690559a5e191ffe5959d8525[m
+Author: KrukowskiJ <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Sun Mar 29 23:03:37 2020 +0200
+
+    Create x
+
+[33mcommit f01840d51653a44f3dec169c1852e3356ce1b1eb[m
+Author: KrukowskiJ <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Sun Mar 29 23:01:59 2020 +0200
+
+    Create ilo.cpp
+
+[33mcommit ec3b31cc57113a6249cea1cb6905a2e1f5b236c2[m
+Author: KrukowskiJ <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Sun Mar 29 22:12:45 2020 +0200
+
+    Update README.md
+
+[33mcommit 11aa26ad9f4507c08c0f6fe8de970197ad86e49d[m
+Author: KrukowskiJ <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Sun Mar 29 22:12:03 2020 +0200
+
+    Update README.md
+
+[33mcommit 8f2ff7f7639184d22fe511a7dc26fcc211a8c7a5[m
+Author: KrukowskiJ <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Sun Mar 29 22:05:21 2020 +0200
+
+    Update README.md
+
+[33mcommit 488612cd589815852f4fa6ebb10900a02f714d83[m
+Author: KrukowskiJ <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Sun Mar 29 22:01:34 2020 +0200
+
+    Update README.md
+
+[33mcommit 413757f7b64ac1b73f66151c29ede1240abc883b[m
+Author: KrukowskiJ <62674442+KrukowskiJ@users.noreply.github.com>
+Date:   Fri Mar 27 22:34:30 2020 +0100
+
+    Initial commit
