@@ -27,6 +27,23 @@ Solutions to problems from the facultative Applied Algorithmics course at the Mi
 * [tas1](https://szkopul.edu.pl/c/algorytmika-praktyczna-2020/p/tas1/) 
 * [tro1](https://szkopul.edu.pl/c/algorytmika-praktyczna-2020/p/tro1/21829/) 
 
+### Week4
+
+* [bro](https://szkopul.edu.pl/c/algorytmika-praktyczna-2020/p/bro/21791/) 
+* [inw](https://szkopul.edu.pl/c/algorytmika-praktyczna-2020/p/inw/17813/) 
+* [jed](https://szkopul.edu.pl/c/algorytmika-praktyczna-2020/p/jed/17738/) 
+* [lot](https://szkopul.edu.pl/c/algorytmika-praktyczna-2020/p/lot/17735/) 
+* [pic](https://szkopul.edu.pl/c/algorytmika-praktyczna-2020/p/pic/21952/) 
+
+
+### Extra
+
+* [lis](https://szkopul.edu.pl/c/algorytmika-praktyczna-2020/p/lis/18477/) 
+* [bug](https://szkopul.edu.pl/c/algorytmika-praktyczna-2020/p/bug/17956/) 
+* [min](https://szkopul.edu.pl/c/algorytmika-praktyczna-2020/p/min/) 
+* [prz](https://szkopul.edu.pl/c/algorytmika-praktyczna-2020/p/prz/21754/) 
+* [prz1](https://szkopul.edu.pl/c/algorytmika-praktyczna-2020/p/prz1/21787/) 
+
 
 ```ALGO2020 is the name of the Student Research Group mentored by Tomasz Idziaszek, Ph.D.```
 
